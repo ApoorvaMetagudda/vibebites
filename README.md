@@ -5,7 +5,7 @@
 ![Project Banner](https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1000&auto=format&fit=crop)
 
 ## 🔗 Live Demo
-**[Click here to view the Live App](https://apoorva935.github.io/vibebites/)**
+**[Click here to view the Live App](https://ApoorvaMetagudda.github.io/vibebites/)**
 
 ## 💡 About The Project
 Vibe Bites Delivery is a frontend web application that reimagines the food ordering experience. Instead of scrolling through endless menus, users filter food based on their **current mood** (Party, Comfort, Spicy). It features a fully functional cart, checkout simulation, and a live delivery tracking animation.
@@ -26,7 +26,7 @@ Vibe Bites Delivery is a frontend web application that reimagines the food order
 ## 🚀 How to Run Locally
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/apoorva935/Vibe-Bites-Delivery.git](https://github.com/apoorva935/Vibe-Bites-Delivery.git)
+    git clone [https://github.com/ApoorvaMetagudda/Vibe-Bites-Delivery.git](https://github.com/ApoorvaMetagudda/Vibe-Bites-Delivery.git)
     ```
 2.  Navigate to the project folder.
 3.  Open `index.html` in your web browser.
